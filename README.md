@@ -1,7 +1,7 @@
 # Mastering-tailwind
 
 ### Techs:
-- **Tailwind**, **React**, **Typescript**, **Nextjs**, **DDD(Domain-driven-design)**, **Composition-Pattern**;
+- **Tailwind**, **React**, **Typescript**, **Nextjs**, **Composition-Pattern**;
 
 ## 📁 Project
 
